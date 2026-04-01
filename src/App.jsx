@@ -1,11 +1,10 @@
 
 import 'react-toastify/dist/ReactToastify.css';
+import Banner from './components/Banner';
 
 function App() {
   return (
-    <div className="bg-gray-100">
-      Jifan Mahmud
-    </div>
+   <Banner/>
   );
 }
 
