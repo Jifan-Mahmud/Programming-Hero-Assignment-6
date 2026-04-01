@@ -1,4 +1,4 @@
-import React from 'react';
+
 import ProductCard from './ProductCard';
 import CartList from './CartList';
 import productsData from '../data/products.json';

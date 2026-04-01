@@ -4,7 +4,7 @@ const ProductCard = ({ product, onAddToCart, isAdded }) => {
   return (
     <div className="bg-white rounded-2xl p-6 border border-gray-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300 flex flex-col h-full relative overflow-hidden group">
       
-      {/* Decorative gradient blob */}
+      
       <div className="absolute -top-10 -right-10 w-32 h-32 bg-purple-50 rounded-full blur-2xl opacity-0 group-hover:opacity-100 transition-opacity"></div>
       
       <div className="flex justify-between items-start mb-6">

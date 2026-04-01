@@ -30,7 +30,7 @@ const Pricing = () => {
           </button>
         </div>
 
-        {/* Pro */}
+        
         <div className="bg-purple-600 rounded-[2rem] p-10 flex flex-col relative transform md:-translate-y-4 shadow-2xl">
           <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-yellow-100 text-yellow-700 text-xs font-bold px-4 py-1.5 rounded-full border border-yellow-200">
             Most Popular
@@ -60,7 +60,7 @@ const Pricing = () => {
           </button>
         </div>
 
-        {/* Enterprise */}
+      
         <div className="bg-white border border-gray-100 rounded-[2rem] p-10 flex flex-col hover:border-purple-200 transition-colors shadow-sm">
           <h3 className="text-2xl font-bold text-gray-900 mb-2">Enterprise</h3>
           <p className="text-gray-500 text-sm mb-8">For teams and businesses</p>

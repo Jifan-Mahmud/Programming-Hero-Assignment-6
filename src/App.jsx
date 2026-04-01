@@ -8,6 +8,7 @@ import Stats from './components/Stats';
 import MainSection from './components/MainSection';
 import Steps from './components/Steps';
 import Pricing from './components/Pricing';
+import Footer from './components/Footer';
 
 function App() {
   const [cart, setCart] = useState([]);
@@ -76,6 +77,8 @@ function App() {
           <Pricing />
         </>
       )}
+
+      <Footer />
       
       <ToastContainer />
     </div>
