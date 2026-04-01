@@ -1,10 +1,14 @@
 
 import 'react-toastify/dist/ReactToastify.css';
 import Banner from './components/Banner';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
-   <Banner/>
+    <div>
+      <Navbar/>
+      <Banner/>
+    </div>
   );
 }
 
