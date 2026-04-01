@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Design Tool Pro",
+    "description": "Unlock advanced design capabilities with premium features.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["100+ templates", "Cloud Export", "Vector Graphics"],
+    "icon": "design-tool.png"
+  },
+  {
+    "id": 2,
+    "name": "Operation Management Kit",
+    "description": "Streamline your daily operations effortlessly.",
+    "price": 45,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Task Tracking", "Resource Planning", "Automated Reports"],
+    "icon": "operation.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium Brand Portfolio",
+    "description": "Showcase your work professionally.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Custom Domains", "Analytics", "SEO Optimized"],
+    "icon": "portfolio.png"
+  },
+  {
+    "id": 4,
+    "name": "Ecommerce Accelerator",
+    "description": "Boost your online store sales rapidly.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Hot",
+    "tagType": "hot",
+    "features": ["Inventory Sync", "Abandoned Cart", "Upsell Hooks"],
+    "icon": "shopping-cart.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Generator",
+    "description": "Create stunning social media posts in seconds.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["AI Captions", "Auto Scheduling", "Trend Analysis"],
+    "icon": "social-media.png"
+  },
+  {
+    "id": 6,
+    "name": "AI Content Writer",
+    "description": "Generate high-quality written content with AI.",
+    "price": 49,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Grammar Checking", "SEO Integration", "Multiple Languages"],
+    "icon": "writing_2327400 1.png"
+  }
+]
